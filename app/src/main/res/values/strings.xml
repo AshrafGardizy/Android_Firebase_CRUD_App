@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase App</string>
+    <string name="text_description">Enter the description here</string>
+    <string name="text_title">Enter the title here</string>
+    <string name="load_data_button">Load Data</string>
+    <string name="save_button">Save</string>
+    <string name="update_button">Update</string>
+    <string name="delete_note_button">Delete Note</string>
+    <string name="delete_description_button">Delete Description</string>
+</resources>
